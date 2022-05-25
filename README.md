@@ -10,18 +10,6 @@
 <br>
 
 
-
-
-## Plugin Feature Map for v1.0  
----
-
-<img src="https://i.imgur.com/Kgd70tb.png" align="center">
-
-
-### Problems? Please let us know
-
-If you run into any problems or issues, **please** let us know so we can address and fix them right away. You can report issues on GitHub:
-
 ---
 > ### @icon-info-circle - Available Features in v1.0 - @icon-info-circle
 > The initial version is action-packed with amazing features that truly make this the one and only next-gen link management software!
@@ -54,6 +42,18 @@ If you run into any problems or issues, **please** let us know so we can address
 |1.1|  [New: Top User Rankings](https://dug.to/) | ... |
 |1.1|  [Update: Bio Profiles](https://dug.to/) | ... |
 |1.1|  [Update: More Integrations](https://dug.to/) | ... |
+  
+---  
+
+## Plugin Feature Map for v1.0  
+---
+
+<img src="https://i.imgur.com/Kgd70tb.png" align="center">
+
+
+### Problems? Please let us know
+
+If you run into any problems or issues, **please** let us know so we can address and fix them right away. You can report issues on GitHub:
 
 
 
